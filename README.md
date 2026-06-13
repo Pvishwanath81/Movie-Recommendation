@@ -6,7 +6,23 @@ The project was created to gain practical experience in data analysis, recommend
 
 ---
 
-## Project Description
+## Dataset Information
+
+This project uses the Movie Recommendation System dataset available on Kaggle:
+
+Dataset:
+https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
+
+Files Used:
+- movies.csv — Contains movie IDs, titles, and genres
+- ratings.csv — Contains user ratings for movies
+
+The dataset contains thousands of movies and user ratings that are used to build recommendation models based on movie similarity and user preferences.
+
+Note:
+ratings.csv is not included in this repository because of its large size. Download it from the Kaggle dataset link above and place it in the project directory before running the notebook.
+
+---
 
 ## Project Description
 
